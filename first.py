@@ -8,3 +8,6 @@ while x <20:
 if xx = yy
 
 print("see you ")
+
+def new_func(x):
+    print(x)
