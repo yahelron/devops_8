@@ -4,10 +4,7 @@ x=1
 while x <20:
     print(x)
     x = x+1
-
-if xx = yy
-
 print("see you ")
 
 def new_func(x):
-    print(x)
+    print(x+1)
